@@ -1,1 +1,1 @@
-# EPIC-ARCHERY-SATGE-1
+# project-C28-template
